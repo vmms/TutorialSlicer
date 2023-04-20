@@ -17,6 +17,7 @@ from slicer import vtkMRMLScalarVolumeNode
 
 #
 # Tutorial
+#Daniel's comment
 #
 
 class Tutorial(ScriptedLoadableModule):
